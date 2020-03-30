@@ -9,6 +9,15 @@ I'd appreciate it if you could show your support by buying me some coffee. Thank
 
 https://www.buymeacoffee.com/bi3cp0Zk5
 
+<table>
+  <tbody>
+    <tr>
+      <td><img src='screenshot1.png' width='300' height='700'></td>
+      <td><img src='screenshot2.png' width='300' height='700'></td>
+     </tr>
+  </tbody>
+</table>
+
 <img src="screenshot1.png">
 <img src="screenshot2.png">
 ## Getting Started
